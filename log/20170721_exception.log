@@ -1,0 +1,9 @@
+*ERROR* 	2017/07/21 - 01:21:01: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:13: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:13: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:18: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:21: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:24: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:25: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:41: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/07/21 - 01:21:41: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
